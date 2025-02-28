@@ -1,0 +1,4 @@
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("jacobbaruch/basketball-players-stats-per-season-49-leagues")
